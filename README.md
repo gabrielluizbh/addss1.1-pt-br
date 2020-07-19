@@ -1,2 +1,2 @@
-# addss1.1-pt-br
-Script Active Directory Domain Services Section (Version 1.1) traduzido para português Brasil
+# Script Active Directory Domain Services Section (Version 1.1) traduzido para português Brasil
+
